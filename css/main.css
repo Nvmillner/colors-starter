@@ -21,7 +21,7 @@ html, body {
 header {
   height: 300px;
   width: 100%;
-  background: #e3e3e3;
+  background: #591A06;
 }
 
 
@@ -34,6 +34,7 @@ header {
 }
 
 #column-1 {
+  
   background: #7D1A3B;
 }
 
@@ -42,6 +43,7 @@ header {
 }
 
 #column-3 {
+
   background: #C26382;
 }
 
@@ -51,7 +53,7 @@ header {
 footer {
   width: 100%;
   height: 30px;
-  background: #e3e3e3;
+  background: #734241;
 }
 
 
@@ -64,14 +66,17 @@ footer {
   }
 
   #column-1 {
+    width:50%;
     background-color: #B47913;
   }
 
   #column-2 {
+    width:50%;
     background-color: #C18214;
   }
 
   #column-3 {
+    width:100%;
     background-color: #DB9316;
   }
 
@@ -89,14 +94,17 @@ footer {
   }
 
   #column-1 {
+    width:33.3%;
     background-color: #03854A;
   }
 
   #column-2 {
+    width:33.3%;
     background-color: #14995D;
   }
 
   #column-3 {
+    width:33.3%;
     background-color: #30BA7C;
   }
 
